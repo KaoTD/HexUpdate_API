@@ -1,11 +1,11 @@
 {
   "response": [
        {
-      "datetime":1497089740,
-      "filename": "HexagonROM-V2.4-20170610-OFFICIAL-armani.zip",
-      "id": "dc2673afb2dd129d6de8922d70fd68c6",
+      "datetime":1498632226,
+      "filename": "HexagonROM-V2.4-20170628-OFFICIAL-armani.zip",
+      "id": "d023e576e7bd869baa154d0dfae4db8e",
       "romtype": "official",
-      "url": "https://sourceforge.net/projects/xiaomi-redmi-1s/files/Hexagon/HexagonROM-V2.4-20170610-OFFICIAL-armani.zip",
+      "url": "https://sourceforge.net/projects/xiaomi-redmi-1s/files/Hexagon/HexagonROM-V2.4-20170628-OFFICIAL-armani.zip",
       "version": "2.4"
     }
   ]
