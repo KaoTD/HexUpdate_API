@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1494069328, 
-      "filename": "HexagonROM-V2.4-20170506-OFFICIAL-ham.zip", 
-      "id": "8e161161ed70b899bd588ad58d9338cf", 
+      "datetime": 1499787347, 
+      "filename": "HexagonROM-V2.5-20170710-OFFICIAL-ham.zip", 
+      "id": "47bfb9eb5a8f35bbcfc55ec1657afa03", 
       "romtype": "official", 
-      "url": "https://forum.xda-developers.com/devdb/project/dl/?id=24583&task=get",
-      "version": "2.4"
+      "url": "https://qc3.androidfilehost.com/dl/6CzZxNZ208Mk9AnOyP0SVQ/1500017836/673368273298970636/HexagonROM-V2.5-20170710-OFFICIAL-ham.zip",
+      "version": "2.5"
     }
   ]
 }
